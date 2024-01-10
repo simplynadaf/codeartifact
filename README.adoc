@@ -1,0 +1,2 @@
+This is the default spring boot sample app taken from https://github.com/spring-guides/gs-spring-boot.git
+More instructions can be found here: https://spring.io/guides/gs/spring-boot/

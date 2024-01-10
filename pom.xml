@@ -56,5 +56,12 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+      <repository>
+        <id>test-artifacts</id>
+        <name>test-artifacts</name>
+        <url>https://test-175662053988.d.codeartifact.us-east-1.amazonaws.com/maven/artifacts/</url>
+      </repository>
+    </distributionManagement>
 
 </project>
